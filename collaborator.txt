@@ -1,2 +1,4 @@
 Isabel Martín González
 Cambio realizado para la práctica de CI/CD
+Prueba de validación CI
+Prueba de validación correcta
