@@ -6,7 +6,7 @@ on:
 
 jobs:
   comprobar-runner:
-    runs-on: [self-hosted, Windows, X64, practicas]
+    runs-on: [self-hosted, Windows, X64, practicas, PC-Isabel]
 
     steps:
       - name: Mostrar mensaje
